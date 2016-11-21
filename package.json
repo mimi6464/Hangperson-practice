@@ -1,0 +1,22 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "hangman game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mimi6464/Hangperson-practice.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "ta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mimi6464/Hangperson-practice/issues"
+  },
+  "homepage": "https://github.com/mimi6464/Hangperson-practice#readme"
+}
